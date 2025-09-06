@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datasets
+client-1-CIC-DDoS-2019-Dataset/
+client-2-CIC-IDS-2017/
+client-3-CSE-CIC-IDS2018/
+client-4-DDOS-SDN-Dataset/
+client-5-InSDN-Dataset/
