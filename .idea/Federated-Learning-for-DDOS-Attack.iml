@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/client_five/raw-dataset/client-5-InSDN-Dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/client_four/raw-dataset/client-4-DDOS-SDN-Dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/client_one/raw-dataset/client-1-CIC-DDoS-2019-Dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/client_three/raw-dataset/client-3-CSE-CIC-IDS2018" />
+      <excludeFolder url="file://$MODULE_DIR$/client_two/raw-dataset/client-2-CIC-IDS-2017" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
