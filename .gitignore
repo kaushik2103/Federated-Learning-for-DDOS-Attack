@@ -212,3 +212,20 @@ client-2-CIC-IDS-2017/
 client-3-CSE-CIC-IDS2018/
 client-4-DDOS-SDN-Dataset/
 client-5-InSDN-Dataset/
+
+# Processed Datasets
+client_one/processed-dataset/
+client_two/processed-dataset/
+client_three/processed-dataset/
+client_four/processed-dataset/
+client_five/processed-dataset/
+
+# Splited Datasets
+Client_1/
+Client_2/
+Client_3/
+Client_4/
+Client_5/
+
+# Reports
+reports/

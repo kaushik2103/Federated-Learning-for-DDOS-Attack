@@ -1,6 +1,9 @@
 syft
+flwr
+joblib
 scikit-learn
 pandas
 matplotlib
 seaborn
 fastapi
+torch
