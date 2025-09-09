@@ -3,3 +3,6 @@ This project uses Federated Learning to build a collaborative DDoS detection sys
 ## Evaluation Metrics 
 Using random forest classification model of machine learning we achieve the following accuracy:
 - Accuracy: `>79%` for Global Model
+
+Using deep learning model LSTM we achieve the following accuracy:
+- Accuracy: `>92%` for Global Model
