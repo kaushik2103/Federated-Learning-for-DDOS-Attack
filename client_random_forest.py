@@ -34,8 +34,15 @@ class FlowerClient(fl.client.NumPyClient):
         if not parameters:
             print(f"[Client {self.client_id}] Round 1: Training a small initial model...")
             self.model = RandomForestClassifier(
-                n_estimators=25,
-                random_state=42,
+                n_estimators=15,
+                max_depth=10,
+                min_samples_split=10,
+                min_samples_leaf=4,
+                max_features="sqrt",
+                bootstrap=True,
+                class_weight="balanced_subsample",
+                n_jobs=-1,
+                random_state=42
             )
         else:
             print(f"[Client {self.client_id}] Re-training the received global model...")

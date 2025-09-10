@@ -66,28 +66,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\reports\client_1_global_model_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\reports\client_1_warm_start_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\reports\client_2_extratrees_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\reports\client_2_global_model_report.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -101,20 +80,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\reports\client_3_extratrees_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\reports\client_3_global_model_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\reports\client_3_warm_start_report.csv">
           <value>
             <Attribute>
@@ -122,35 +87,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\reports\client_4_extratrees_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\reports\client_4_global_model_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\reports\client_4_warm_start_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\reports\client_5_extratrees_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\reports\client_5_global_model_report.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
