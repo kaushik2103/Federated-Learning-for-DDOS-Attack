@@ -6,3 +6,8 @@ Using random forest classification model of machine learning we achieve the foll
 
 Using deep learning model LSTM we achieve the following accuracy:
 - Accuracy: `>92%` for Global Model
+
+Using Support Vector Machine we achieve the following accuracy:
+- Accuracy: `>57%` for Global Model
+
+To achieve the best accuracy we need to process the dataset thoroughly.
